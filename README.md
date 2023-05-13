@@ -3,3 +3,4 @@ How to create registration and login form website backend with php and mysqli da
 
 1. Create new database name db_connect.php  on your cpanel 
 2. create new table name users on phpmy adim
+3. add the above files in there respective file on your cpanel 
